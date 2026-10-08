@@ -1,0 +1,10 @@
+{
+  "name": "内装図面メーカー",
+  "short_name": "内装図面",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1f2a37",
+  "theme_color": "#1f2a37",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
